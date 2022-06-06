@@ -1,1 +1,2 @@
 this is alice
+chnages are done in file2 through bob
