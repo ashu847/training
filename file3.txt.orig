@@ -1,0 +1,6 @@
+this is tom
+<<<<<<< HEAD
+second line added by toms
+=======
+second line added by alice
+>>>>>>> d3d92a107f297d86df51d3a382c51375d01c16fb
